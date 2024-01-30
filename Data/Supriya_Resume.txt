@@ -1,0 +1,44 @@
+Supriya Chavan
+Bellevue, WA | supriyasonvane2@gmail.com | 443-825-2399 | LinkedIn | Github Profile Summary
+Highly driven Full Stack Software Developer with a degree in computer science and information technology, possessing a strong foundation in algorithms and data structures, enabling efficient analysis of complex technical information and troubleshooting code. After a hiatus, eager to return to the tech industry and take on a challenging Full Stack Software Developer role.
+Skills
+Languages: Python, ReactJS, JavaScript, HTML, CSS, Java, C#, C++ Frameworks: Flask, ASP.Net Core, Node.js
+Databases: Postgres, MSSQL, Redis, MongoDB
+Tools: Postman, Docker, Kubernetes, Swagger, GitHub, Heroku Testing Frameworks: Pytest, Jest, Puppeteer
+Experience
+Software Development Intern, Tiger Sheep (Mar 2022 - Present)
+ Utilized React JS and Redux to build custom front-end portals that provide clients with fast and easy access to SAP
+ Focused on developing user-friendly interfaces that optimize efficiency and streamline user experience
+Student Software Developer, Ada Developers Academy (Nov 2022 - Present)
+ Collaborated with a team of developers to build and deploy full-stack web applications using technologies such as React, Flask and Postgres
+ Learned new technologies and programming languages through individual and group projects
+Teaching Assistant, Kal Academy (Sep 2019 - Aug 2022)
+ After attending a Kal Academy Bootcamp, I was offered a Teaching Assistant position
+ Instructed Kal Academy students in programming concepts, conducting both weekly group discussions and one-on-one
+sessions
+ Offered guidance and feedback on code reviews and debugging, resulting in increased mastery of skills and successful
+completion of four real-world projects
+ Achieved a 50% increase in student satisfaction with the program through these efforts
+Head of Computer Engineering Department, VPP's Manohar Phalke Polytechnic, Sion Mumbai (Aug 2006 - Jul 2010)
+ Served as a member of Staff Selection Committee, member of Curriculum Revision Project for Maharashtra State, Paper Setter, and External Examiner
+ Served as Chairperson for Technical Paper Presentation and Convener for MP-Pro Ex (State Level Project Exhibition)
+ Started a Research and Development Division for Revenue Generation
+ Organized blood donation camps for local hospitals and an expert lecture series from industry experts for students
+Lecturer, Computer Engineering, VPP's Manohar Phalke Polytechnic, Sion Mumbai (Aug 2002 - Jul 2006)
+ Courses taught: Network Management, Data Communications and Networking, Computer Networks, Operating Systems, C, OOP-(C++), DBMS, Core Java, Data Structures
+ Taught students debugging and code reviews Education
+Master of Engineering, Information Technology, University of Mumbai (2003 – 2007)
+ Coursework: Distributed OS, Web Engineering, SW Architecture, E-Commerce, Internetworking and Network Design,
+Management Information systems, Object Oriented SW Engineering, Advanced Databases, Principles of Network Architecture and Protocols, Human Computer Interaction
+Bachelor of Engineering, Computer Science and Engineering, Government College of Engineering Aurangabad (1996 – 2000)  Coursework: Design and Analysis of Algorithms, Theory of Computation, Software Engineering, Operating Systems, Parallel Processing, Computer Networks, Data Structures, Computer Organization, Computer Graphics, Systems Programming, DBMS, Artificial Intelligence, Principles of Compiler Design, Operations Research, Discrete Mathematical
+  Structures
+Projects
+ Built a Tennis Score Keeping web app for keeping track of scores and stats of tennis matches with one other developer. Used Flask, Postgres, ReactJS, and Google Firebase Authentication. Deployed the application using Heroku. Github
+ As a group of 4, designed and developed an interactive Inspiration Board web app that allowed users to inspire others using boards and card messages. Specifically, I designed models and implemented all the CRUD and nested routes for the complete application. Github
+ Designed and developed a functional event-planning website similar to Eventbrite using micro services. Users can list events, create an event page, and sell tickets online. Used ASP .NET C#, Visual Studio, Rest APIs, Docker, MSSQL and Redis cache for the data store, OAuth for single-user authentication, and Stripe to simulate payments. Github
+ Designed and developed a Music Library App using UWP (C#) in Visual Studio to customize users' playlist and play songs for the user. Github
+ Wrote software for a console-based Airline Reservation System which users can use for booking flight tickets using C++. Github
+Interests and Hobbies
+ Learning new techniques to solve complex math problems
+ Solving puzzles and riddles
+ Teaching math
